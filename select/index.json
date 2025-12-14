@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "幸せのリボン",
+  "base_artist": "夕霧綴理 (CV.佐々木琴子)",
+  "createdAt": "2025-12-14T06:06:52.834115Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "幸せのリボン",
+      "artist": "夕霧綴理 (CV.佐々木琴子)",
+      "has_synced": false,
+      "path": "select/pl_01_幸せのリボン_夕霧綴理_(CV.佐々木琴子).txt"
+    }
+  ]
+}
